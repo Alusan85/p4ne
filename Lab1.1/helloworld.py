@@ -13,4 +13,4 @@ def info2(info):
     print(info)
     print("Конец функции")
 
-info2 ("gsgsgsgsg")
+info2 ("gsgsgsgsg поравил сразу два файла")
