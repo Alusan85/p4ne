@@ -11,5 +11,6 @@ for i in range(1, 10):
 
 def info2(info):
     print(info)
+    print("Конец функции")
 
 info2 ("gsgsgsgsg")
