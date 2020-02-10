@@ -8,3 +8,8 @@ for i in a:
 
 for i in range(1, 10):
     print (i/4)
+
+def info2(info):
+    print(info)
+
+info2 ("gsgsgsgsg")
